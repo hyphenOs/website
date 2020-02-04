@@ -36,3 +36,8 @@ RELATIVE_URLS = True
 
 ARTICLE_URL = 'blog/'
 DEBUG = 1
+
+# Our Overrides
+
+DISPLAY_CATEGORIES_ON_MENU = False
+USE_FOLDER_AS_CATEGORY = False
